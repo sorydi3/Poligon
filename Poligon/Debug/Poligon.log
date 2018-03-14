@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Poligon.cpp
+  main.cpp
+  Compiling...
+  Generating Code...
+c:\users\sam\source\repos\poligon\poligon\poligon.cpp(28): error C4716: 'Poligon::perimetre': must return a value
